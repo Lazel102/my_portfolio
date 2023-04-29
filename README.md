@@ -1,6 +1,6 @@
 # My portfolio
 
-Hi I am Yannick, I just finished two Bachelors degrees in Computer Science and Social Science. Meanwhile I spezialized in the collection and analysis of data of various forms. This portfolio I am trying to showcasse some of the projects I did in the past, to give anyone who is interested in my work an overview of what I am doing. If you have further questions do not hesitate me via github or my [university email](lazel102@hhu.de).
+Hello, I'm Yannick! I recently completed dual Bachelor's degrees in Computer Science and Social Science. Throughout my academic journey, I've specialized in collecting and analyzing various types of data. This portfolio aims to showcase some of the projects I've worked on in the past, providing an overview of my expertise for anyone interested in my work. If you have any further questions or would like to get in touch, please don't hesitate to contact me via GitHub or my [university email](lazel102@hhu.de).
 
 ## Project 1 : Image Registration of the Brain
 
