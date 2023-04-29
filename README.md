@@ -2,11 +2,31 @@
 
 Hi I am Yannick, I just finished two Bachelors degrees in Computer Science and Social Science. Meanwhile I spezialized in the collection and analysis of data of various forms. This portfolio I am trying to showcasse some of the projects I did in the past, to give anyone who is interested in my work an overview of what I am doing. If you have further questions do not hesitate me via github or my [university email](lazel102@hhu.de).
 
+## Project 1 : Image Registration of the Brain
 
-## Project 1 : SciTok : A Web Scraping Tool for Social Science Research
+![](figs/stacking.png)
+
+In collaboration with a fellow student, we are working on a university project that involves performing image registration on a collection of unregistered brain images. These images are provided by the  [Big Data Analytics research group] (https://www.fz-juelich.de/en/inm/inm-1/research/big-data-analytics) at the[Institute of Neurosciences and Medicine (INM)](https://www.fz-juelich.de/en) in Jülich, Germany. Our goal is to apply the methods learned from the Computer Vision lecture within the  [Master Artificial Intelligence & Data Sciene](https://www.heicad.hhu.de/lehre/masters-programme-ai-and-data-science) to align these images with each other.  By doing so, we hope to create a comprehensive 3D representation of the original brain structure.
+
+
+## Project 2 : SciTok - A Web Scraping Tool for Social Science Research
+
+![](figs/FirstGraphVisualization.png)
 
 For my bachelor's thesis in Computer Science, I created SciTok, a specialized tool designed for researchers to scrape and integrate TikTok data into theoretical models. Despite its widespread usage and growing interest among social scientists, TikTok currently does not provide a means for researchers to access and analyze its data.
 
 SciTok bridges this gap by allowing social scientists to collect and analyze TikTok data efficiently. The tool has been specifically tailored to meet the needs of social scientists, with a strong focus on facilitating social network analysis. Throughout the development process of the initial prototype, emphasis was placed on ensuring the tool's accessibility for scientists without a background in computer science, as well as addressing legal and ethical concerns related to social media data analysis.
 
+
+
+## Project 3 : Twitter Analysis of the Vaccaniation Discussion during the Corona Pandemie
+
+![](figs/graph_vaccination.png)
+
+
+For my bachelor's thesis in Social Science, I conducted a large-scale Twitter analysis focusing on the discourse surrounding vaccinations. By utilizing a sample of over 3 million tweets, I applied a graph clustering algorithm to identify both vaccination advocates and skeptics. This enabled a comparative analysis of the respective discourses, shedding light on the contrasting perspectives within the ongoing vaccination debate.
+
+## Project 4 : Les Elfes De Maison 
+
+Together with a close friend, who I currently share a residence with in Paris, we identified a common issue among young people living in the city: the lack of adequate cooking space due to the typically small kitchens in apartments. To address this problem, we established a project that aims to connect individuals with spacious kitchens seeking social interaction, and those who desire a suitable kitchen for cooking. Les Elfes De Maison is a website that allows users to create and find batch cooking events, fostering a sense of community and shared culinary experiences.
 
