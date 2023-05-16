@@ -6,7 +6,7 @@ Hello, I'm Yannick! I recently completed dual Bachelor's degrees in Computer Sci
 
 ![](figs/stacking.png)
 
-In collaboration with a fellow student, we are working on a university project that involves performing image registration on a collection of unregistered brain images. These images are provided by the  [Big Data Analytics research group] (https://www.fz-juelich.de/en/inm/inm-1/research/big-data-analytics) at the[Institute of Neurosciences and Medicine (INM)](https://www.fz-juelich.de/en) in Jülich, Germany. Our goal is to apply the methods learned from the Computer Vision lecture within the  [Master Artificial Intelligence & Data Sciene](https://www.heicad.hhu.de/lehre/masters-programme-ai-and-data-science) to align these images with each other.  By doing so, we hope to create a comprehensive 3D representation of the original brain structure.
+In collaboration with a fellow student, we are working on a university project that involves performing image registration on a collection of unregistered brain images. These images are provided by the  [Big Data Analytics research group](https://www.fz-juelich.de/en/inm/inm-1/research/big-data-analytics) at the [Institute of Neurosciences and Medicine (INM)](https://www.fz-juelich.de/en) in Jülich, Germany. Our goal is to apply the methods learned from the Computer Vision lecture within the  [Master Artificial Intelligence & Data Sciene](https://www.heicad.hhu.de/lehre/masters-programme-ai-and-data-science) to align these images with each other.  By doing so, we hope to create a comprehensive 3D representation of the original brain structure.
 
 [Take me to this Project](https://git.hhu.de/2023-computer-vision-lazel102-lusch224/project-1-image-registration/)
 
