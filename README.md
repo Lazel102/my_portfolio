@@ -2,7 +2,7 @@
 
 Hello, I'm Yannick! I recently completed dual Bachelor's degrees in Computer Science and Social Science. Throughout my academic journey, I've specialized in collecting and analyzing various types of data. This portfolio aims to showcase some of the projects I've worked on in the past, providing an overview of my expertise for anyone interested in my work. If you have any further questions or would like to get in touch, please don't hesitate to contact me via GitHub or my [university email](lazel102@hhu.de).
 
-## Project 1 : Image Registration of the Brain
+## ![Project 1 : Image Registration of the Brain](https://git.hhu.de/2023-computer-vision-lazel102-lusch224/project-1-image-registration/)
 
 ![](figs/stacking.png)
 
