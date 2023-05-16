@@ -19,7 +19,7 @@ For my bachelor's thesis in Computer Science, I created SciTok, a specialized to
 SciTok bridges this gap by allowing social scientists to collect and analyze TikTok data efficiently. The tool has been specifically tailored to meet the needs of social scientists, with a strong focus on facilitating social network analysis. Throughout the development process of the initial prototype, emphasis was placed on ensuring the tool's accessibility for scientists without a background in computer science, as well as addressing legal and ethical concerns related to social media data analysis.
 
 [Take me to this Project](https://github.com/Lazel102/SciTok)
-[Take me to the Thesis]([https://github.com/Lazel102/SciTok](https://www.researchgate.net/publication/368575971_Bachelor_Thesis_for_a_Degree_in_Computer_Science_Let's_Talk_about_TikTok_-_A_Web_Scraping_Tool_for_Social_Science_Research))
+[Take me to the Thesis](https://www.researchgate.net/publication/368575971_Bachelor_Thesis_for_a_Degree_in_Computer_Science_Let's_Talk_about_TikTok_-_A_Web_Scraping_Tool_for_Social_Science_Research))
 
 
 ## Project 3 : Twitter Analysis of the Vaccaniation Discussion during the Corona Pandemie
